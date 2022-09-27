@@ -8,7 +8,7 @@
     seat.status == 'booked' ? {'background-color': bookedColor, 'opacity': 0.5}: '',
     ]"
   @click.native="selectSeat"
-  >  
+  > 
     <p> {{ seat.name }} </p>
   </div>
 

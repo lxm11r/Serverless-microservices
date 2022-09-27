@@ -4,7 +4,7 @@
       v-for="seat in $store.state.seatList"
       :seat ="seat"
       :key ="seat.name"
-      > 
+      >
     </Seat>
     </div>
 

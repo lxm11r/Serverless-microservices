@@ -2,7 +2,7 @@
   <header>
     <div class="wrapper">
       <Title></Title>
-    </div> 
+    </div>
   </header>
 
   <main>
